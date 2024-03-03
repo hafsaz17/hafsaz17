@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hafsaz17
 - 👀 I’m interested in data analysis
-- 🌱 I have done Google Data Analytics Professional Certificate course. I’m currently learning Google Advanced Data Analytics Professional Certificate course
+- 🌱 I have done Google Data Analytics Professional Certificate course. I’m currently learning Business Intelligence Professional Certificate course
 - 💞️ I’m looking to collaborate on social media platforms with Audience & Content Insights projects
 - 📫 How to reach me: Email me on hafsazamurred17@gmail.com
 - 😄 Pronouns: she/her
