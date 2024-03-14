@@ -1,7 +1,6 @@
-![logo](https://github.com/hafsaz17/hafsaz17/blob/main/Github%20Banner%20Image.png)
+![Animated Gif](https://github.com/hafsaz17/hafsaz17/assets/159186250/fa795b15-42b1-42d0-a226-bdc6a2f5b416)![e04182f6094f2764001c1df50b6a2971](https://github.com/hafsaz17/hafsaz17/assets/159186250/090c2656-9131-415e-9c33-7d8bc7c99fa1)![e04182f6094f2764001c1df50b6a2971](https://github.com/hafsaz17/hafsaz17/assets/159186250/b6abc93f-2310-4346-99be-8014e060dfb7)![logo](https://github.com/hafsaz17/hafsaz17/blob/main/Github%20Banner%20Image.png)
 # 💫 About Me:
 👋 Hi, I’m @hafsaz17<br>👀 I’m interested in data analysis<br>🌱 I have done Google Data Analytics Professional Certificate course. I’m currently learning Business Intelligence Professional Certificate course<br>💞️ I’m looking to collaborate on social media platforms with Audience & Content Insights projects<br>📫 How to reach me: Email me on hafsazamurred17@gmail.com<br>😄 Pronouns: she/her<br>⚡ Fun fact: I used to dread coding assignments in college, finding them dry and overly theoretical. But when I first encountered R programming and SQL, everything clicked! The practical applications and interactive nature of these languages ignited my passion for coding. Now, I can't wait to tackle new challenges and explore the endless possibilities of data analysis!
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hafsa-zamurred/) 
