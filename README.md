@@ -1,5 +1,5 @@
 ## 💫 About Me:
-👋 Hi, I’m Hafsa <br>👀 I’m a data analyst<br>🌱 I have done Google Data Analytics Professional Certificate course.
+👋 Hi, I’m Hafsa <br>👀 I am a passionate data analyst with a Google Data Analytics Professional Certificate from Coursera. I bring expertise in Excel, SQL, Python and Tableau to the table. Passionate about leveraging data to uncover actionable insights, I am committed to refining my analysis and visualization skills through hands-on projects. My strong portfolio showcases my ability to tackle real-world challenges effectively.
 
 📧 How to reach me: Email me on hafsazamurred17@gmail.com<br> Pronouns: she/her<br>⚡ Fun fact: I used to dread coding assignments in college, finding them dry and overly theoretical. But when I first encountered R programming and SQL, everything clicked! The practical applications and interactive nature of these languages ignited my passion for coding. Now, I can't wait to tackle new challenges and explore the endless possibilities of data analysis!
 
